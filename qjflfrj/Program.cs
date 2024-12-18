@@ -10,8 +10,7 @@ namespace qjflfrj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("연습용");
-            Console.WriteLine("커밋메시지를 상세하게 적을수없다");
+            Console.WriteLine("새로운 작업을 함");
         }
     }
 }
